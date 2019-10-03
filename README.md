@@ -1,5 +1,2 @@
 # hello-world
-Just another repository
-
-
-hello world
+I created this for DataQuest 
